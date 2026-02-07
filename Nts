@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untuk Anak Kecil🗿</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hai, [AYUYU🗿]! 💖</h1>
+        <p>Love You.</p>
+        <img src="bacoxs.jpg" alt="Foto Romantis" class="image">
+        <h1 class="message">Pesan romantis Anda di sini: "Aku mencintaimu lebih dari apa pun di dunia. Terima kasih sudah ada di hidupku."</h1>
+        <button onclick="alert('Aku sayang kamu!')">Klik untuk Surprise</button>
+    </div>
+</body>
+</html>
